@@ -25,6 +25,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Inside _config.yml
+minima:
+  skin: dark
+  social_links:
+    github: https://github.com/Akshar-u-2077
+    twitter: https://twitter.com/jekyllrb
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
