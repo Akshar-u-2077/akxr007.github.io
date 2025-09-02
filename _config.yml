@@ -1,12 +1,24 @@
 
-title: Akxr's LiveJournal
+title: "Akxr's LiveJournal"
 email: aksharu73@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sup! I Post my blogs here, just to carry the vibe, The parallel blogging when Zuck was Hacking into the Harvard..That Scene was soo cold!.. Happy to see you here!
-baseurl: "https://github.com/Akshar-u-2077" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Sup! I post my blogs here, just to carry the vibe — the parallel blogging
+  when Zuck was hacking into Harvard... That scene was sooo cold! 
+  Happy to see you here!
+
+url: "https://akxr007.github.io"
+baseurl: "" # leave empty for user site (akxr007.github.io)
+
+# Social handles
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: Akshar-u-2077
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
 
 # Build settings
 theme: minima
